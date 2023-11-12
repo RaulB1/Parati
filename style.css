@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.heart-img {
+    width: 200px; /* Ajusta el tamaño según sea necesario */
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #333;
+}
+
+#counter {
+    font-size: 36px;
+    margin-top: 20px;
+}
